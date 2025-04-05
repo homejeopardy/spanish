@@ -1,38 +1,38 @@
 const categories = {
-    "School History": {
-        100: ["In what year was Black Pine Circle School founded?", "What is 1973?"],
-        200: ["Black Pine Circle School was originally founded in which city?", "What is Berkeley?"],
-        300: ["This method of inquiry-based discussion is a cornerstone of BPC’s education.", "What is the Socratic method?"],
-        400: ["The founders were inspired to start the school while camping in this mountain range.", "What are the Sierras?"],
-        500: ["This was the first grade level taught when BPC opened.", "What is Kindergarten?"]
+    "Verb Meanings": {
+        100: ["What does 'hablar' mean?", "What is 'to talk' or 'to speak'?"],
+        200: ["What does 'bailar' mean?", "What is 'to dance'?"],
+        300: ["What does 'cantar' mean?", "What is 'to sing'?"],
+        400: ["What does 'estudiar' mean?", "What is 'to study'?"],
+        500: ["What does 'trabajar' mean?", "What is 'to work'?"]
     },
-    "School Life": {
-        100: ["This daily gathering builds community and starts the day at BPC.", "What is Morning Circle?"],
-        200: ["Students once raised these animals in a coop they helped build.", "What are chickens?"],
-        300: ["This special celebration honors the school's founding and traditions.", "What is Founders Day?"],
-        400: ["Each spring, middle schoolers present this major project blending research and public speaking.", "What is the Capstone Project?"],
-        500: ["BPC celebrates Halloween with this fun tradition.", "What is a costume parade or contest?"]
+    "Conjugation Rules": {
+        100: ["What ending do you add to '-ar' verbs for 'yo'?", "What is '-o'?"],
+        200: ["What ending do you add for 'tú'?", "What is '-as'?"],
+        300: ["What ending do you add for 'él/ella/usted'?", "What is '-a'?"],
+        400: ["What ending do you add for 'nosotros/nosotras'?", "What is '-amos'?"],
+        500: ["What ending do you add for 'ellos/ellas/ustedes'?", "What is '-an'?"]
     },
-    "The Arts": {
-        100: ["Students perform musicals and plays on this stage area.", "What is the drama stage?"],
-        200: ["The middle school jazz ensemble performs pieces from this genre.", "What is jazz?"],
-        300: ["This club helps students hone their storytelling and narrative skills.", "What is the creative writing club?"],
-        400: ["Art classes at BPC often focus on this form of visual creativity.", "What is visual art?"],
-        500: ["This bowed string instrument is taught and performed in school ensembles.", "What is the violin?"]
+    "Translate the Sentence": {
+        100: ["Translate: 'I talk a lot.'", "What is 'Yo hablo mucho'?"],
+        200: ["Translate: 'She dances well.'", "What is 'Ella baila bien'?"],
+        300: ["Translate: 'We study Spanish.'", "What is 'Nosotros estudiamos español'?"],
+        400: ["Translate: 'They work on Monday.'", "What is 'Ellos trabajan el lunes'?"],
+        500: ["Translate: 'Do you sing?' (informal)", "What is '¿Tú cantas?'"]
     },
-    "Faculty & Staff": {
-        100: ["This person is Head of School as of 2025.", "Who is John Carlstroem?"],
-        200: ["This language teacher also works as a translator for young adult books.", "Who is Aïda Garcia-Pons?"],
-        300: ["This math teacher and coach studied economics before switching careers.", "Who is Dan Hughes?"],
-        400: ["The school counselor leads lessons and programs focused on this area of student well-being.", "What is social-emotional learning?"],
-        500: ["Teachers frequently use this method of guided questioning in discussions.", "What is the Socratic method?"]
+    "Identify the Subject": {
+        100: ["Who is the subject: 'Hablan en clase.'", "Who are 'they' or 'you all'?"],
+        200: ["Who is the subject: 'Estudiamos mucho.'", "Who are 'we'?"],
+        300: ["Who is the subject: 'Baila bien.'", "Who is 'he', 'she', or 'you (formal)'?"],
+        400: ["Who is the subject: 'Cantas mal.'", "Who is 'you' (informal singular)?"],
+        500: ["Who is the subject: 'Trabajo en casa.'", "Who is 'I'?"]
     },
-    "School Facts": {
-        100: ["As of 2025, this is the approximate number of students at BPC.", "What is 330?"],
-        200: ["BPC serves students in this grade range.", "What are Kindergarten through 8th grade?"],
-        300: ["This percentage of students receive financial aid.", "What is 28%?"],
-        400: ["The average financial aid award is around this amount.", "What is $18,000?"],
-        500: ["BPC has this many separate campuses as of 2025.", "What is two?"]
+    "Random -AR Verbs": {
+        100: ["What does 'escuchar' mean?", "What is 'to listen'?"],
+        200: ["What does 'mirar' mean?", "What is 'to watch' or 'to look at'?"],
+        300: ["What does 'nadar' mean?", "What is 'to swim'?"],
+        400: ["What does 'practicar' mean?", "What is 'to practice'?"],
+        500: ["What does 'viajar' mean?", "What is 'to travel'?"]
     }
 };
 

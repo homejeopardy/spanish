@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeopardy! Star Wars</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <h1>Jeopardy! Star Wars</h1>
+
+    <div id="setup">
+        <h2>Enter Team Names</h2>
+        <div id="team-inputs">
+            <input type="text" placeholder="Team Name">
+        </div>
+        <button id="add-team">Add Team</button>
+        <button id="start-game">Start Game</button>
+    </div>
+
+    <div id="game" style="display: none;">
+        <div id="scores" class="scores"></div>
+        <div id="jeopardy-board" class="board"></div>
+    </div>
+
+    <div class="popup" id="popup">
+        <h2 id="question-text"></h2>
+        <button onclick="showAnswer()">Show Answer</button>
+    </div>
+
+    <div class="popup" id="answer-popup">
+        <h2 id="answer-text"></h2>
+        <label for="team-select">Who answered?</label>
+        <select id="team-select"></select>
+        <button onclick="updateScore(true)">Correct</button>
+        <button onclick="updateScore(false)">Incorrect</button>
+    </div>
+
+        <script src="script.js"></script>
+    
+<audio id="jeopardy-theme" volume="0.8">
+    <source src="https://ia801605.us.archive.org/1/items/R2d2Beeps/r2-d2.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+</audio>
+
+<script>
+    document.getElementById("jeopardy-theme").volume = 0.8; // Set volume to 30%
+</script>
+
+<a href="https://homejeopardy.github.io/finalhost/" class="final-jeopardy-button" target="_blank">
+  Final Jeopardy
+</a>
+    
+</body>
+</html>

@@ -9,21 +9,21 @@ const categories = {
     "Conjugation Rules": {
         100: ["What ending do you add to '-ar' verbs for 'yo'?", "What is '-o'?"],
         200: ["What ending do you add for 'tú'?", "What is '-as'?"],
-        300: ["What ending do you add for 'él/ella/usted'?", "What is '-a'?"],
-        400: ["What ending do you add for 'nosotros/nosotras'?", "What is '-amos'?"],
-        500: ["What ending do you add for 'ellos/ellas/ustedes'?", "What is '-an'?"]
+        300: ["What ending do you add for 'él/ella/elle/usted'?", "What is '-a'?"],
+        400: ["What ending do you add for 'nosotros/as/es'?", "What is '-amos'?"],
+        500: ["What ending do you add for 'ellos/ellas/elles/ustedes'?", "What is '-an'?"]
     },
     "Translate the Sentence": {
-        100: ["Translate: 'I talk a lot.'", "What is 'Yo hablo mucho'?"],
-        200: ["Translate: 'She dances well.'", "What is 'Ella baila bien'?"],
-        300: ["Translate: 'We study Spanish.'", "What is 'Nosotros estudiamos español'?"],
+        100: ["Translate: 'I talk a lot.'", "What is 'Hablo mucho'?"],
+        200: ["Translate: 'She dances well.'", "What is 'Baila bien'?"],
+        300: ["Translate: 'We study Spanish.'", "What is 'Estudiamos español'?"],
         400: ["Translate: 'They work on Monday.'", "What is 'Ellos trabajan el lunes'?"],
-        500: ["Translate: 'Do you sing?' (informal)", "What is '¿Tú cantas?'"]
+        500: ["Translate: 'Do you sing?' (informal)", "What is '¿Cantas?'"]
     },
     "Identify the Subject": {
         100: ["Who is the subject: 'Hablan en clase.'", "Who are 'they' or 'you all'?"],
         200: ["Who is the subject: 'Estudiamos mucho.'", "Who are 'we'?"],
-        300: ["Who is the subject: 'Baila bien.'", "Who is 'he', 'she', or 'you (formal)'?"],
+        300: ["Who is the subject: 'Baila bien.'", "Who is 'he', 'she', 'they (singular)', or 'you (formal)'?"],
         400: ["Who is the subject: 'Cantas mal.'", "Who is 'you' (informal singular)?"],
         500: ["Who is the subject: 'Trabajo en casa.'", "Who is 'I'?"]
     },

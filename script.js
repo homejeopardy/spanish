@@ -15,7 +15,7 @@ const categories = {
     },
     "Translate the Sentence": {
         100: ["Translate: 'I talk a lot.'", "What is 'Hablo mucho'?"],
-        200: ["Translate: 'She dances well.'", "What is 'Baila bien'?"],
+        200: ["Translate: 'She dances well.'", "What is 'Ella baila bien'?"],
         300: ["Translate: 'We study Spanish.'", "What is 'Estudiamos español'?"],
         400: ["Translate: 'They work on Monday.'", "What is 'Ellos trabajan el lunes'?"],
         500: ["Translate: 'Do you sing?' (informal)", "What is '¿Cantas?'"]

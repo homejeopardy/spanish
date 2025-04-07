@@ -28,11 +28,11 @@ const categories = {
         500: ["Who is the subject: 'Trabajo en casa.'", "Who is 'I'?"]
     },
     "Random -AR Verbs": {
-        100: ["What does 'escuchar' mean?", "What is 'to listen'?"],
-        200: ["What does 'mirar' mean?", "What is 'to watch' or 'to look at'?"],
-        300: ["What does 'nadar' mean?", "What is 'to swim'?"],
-        400: ["What does 'practicar' mean?", "What is 'to practice'?"],
-        500: ["What does 'viajar' mean?", "What is 'to travel'?"]
+        100: ["'Escuchar' means this.", "What is 'to listen'?"],
+        200: ["'Mirar' means this.", "What is 'to watch' or 'to look at'?"],
+        300: ["'Nadar' means this.", "What is 'to swim'?"],
+        400: ["'Practicar' means this.", "What is 'to practice'?"],
+        500: ["'Viajar' means this.", "What is 'to travel'?"]
     }
 };
 

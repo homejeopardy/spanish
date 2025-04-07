@@ -1,23 +1,23 @@
 const categories = {
     "Verb Meanings": {
-        100: ["What does 'hablar' mean?", "What is 'to talk' or 'to speak'?"],
-        200: ["What does 'bailar' mean?", "What is 'to dance'?"],
-        300: ["What does 'cantar' mean?", "What is 'to sing'?"],
-        400: ["What does 'estudiar' mean?", "What is 'to study'?"],
-        500: ["What does 'trabajar' mean?", "What is 'to work'?"]
+        100: ["'Hablar' means this.", "What is 'to talk' or 'to speak'?"],
+        200: ["'Bailar' means this.", "What is 'to dance'?"],
+        300: ["'Cantar' means this.", "What is 'to sing'?"],
+        400: ["'Estudiar' means this.", "What is 'to study'?"],
+        500: ["'Trabajar' means this.", "What is 'to work'?"]
     },
     "Conjugation Rules": {
-        100: ["What ending do you add to '-ar' verbs for 'yo'?", "What is '-o'?"],
-        200: ["What ending do you add for 'tú'?", "What is '-as'?"],
-        300: ["What ending do you add for 'él/ella/elle/usted'?", "What is '-a'?"],
-        400: ["What ending do you add for 'nosotros/as/es'?", "What is '-amos'?"],
-        500: ["What ending do you add for 'ellos/ellas/elles/ustedes'?", "What is '-an'?"]
+        100: ["This is the 'yo' ending.", "What is '-o'?"],
+        200: ["This is the 'tú' ending.?", "What is '-as'?"],
+        300: ["This is the 'él/ella/elle/Usted' ending.", "What is '-a'?"],
+        400: ["This is the 'nosotros/as/es' ending.", "What is '-amos'?"],
+        500: ["This is the 'ellos/ellas/elles/Ustedes' ending.", "What is '-an'?"]
     },
     "Translate the Sentence": {
         100: ["Translate: 'I talk a lot.'", "What is 'Hablo mucho'?"],
         200: ["Translate: 'She dances well.'", "What is 'Ella baila bien'?"],
         300: ["Translate: 'We study Spanish.'", "What is 'Estudiamos español'?"],
-        400: ["Translate: 'They work on Monday.'", "What is 'Ellos trabajan el lunes'?"],
+        400: ["Translate: 'They work on Monday.'", "What is 'Ellos trabajan en lunes'?"],
         500: ["Translate: 'Do you sing?' (informal)", "What is '¿Cantas?'"]
     },
     "Identify the Subject": {
